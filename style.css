@@ -1,0 +1,39 @@
+body{
+    background:url(Piltover.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card{
+    
+}
+
+#cartesAdversaire{
+    height: 200px;
+
+}
+
+.card-img-top{
+    opacity: 1;
+}
+
+.cardList{
+    list-style: none;
+    display: flex;
+}
+
+#adversaire{
+   outline: thick black solid;
+   background: rgba(0, 0, 0, 0.73);
+
+}
+
+#deck{
+    margin-right: 0;
+}
+
+#joueur{
+    
+
+}
+
